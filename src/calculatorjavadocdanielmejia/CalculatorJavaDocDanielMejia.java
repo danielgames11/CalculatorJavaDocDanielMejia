@@ -11,7 +11,7 @@ public class CalculatorJavaDocDanielMejia {
         return a + b;
     }
     /**
-    * Mètode que suma dos números decimals.
+    * Mètode que suma dos números decimals
     * @param b el número del qual es vol restar
     * @param a el número que es vol restar
     * @return la diferència entre a i b
